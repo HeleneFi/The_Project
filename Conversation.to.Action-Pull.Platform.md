@@ -68,6 +68,7 @@ Create Contextualized Connections (revalue reap the potential of the hyperlink)
 Pull related data from the web on ongoing basis
 
 Enable generative conversations to grow into something more comprehensive
+* Dispatching to where content needs to be processed
 * Processing of content and iteration: curation, learning, annotation,  evaluation, argumentation, decision, action – contextualized and cross  referenced) (debategraph, Kune)
 * Self discovery space, taking notes, adding on, modifying (sandbox)
 * Hands on modifying and scaling – fork, diff, merge. (re: open source - github)
@@ -152,4 +153,3 @@ A  hashtag comparison table when creating content on socialNets that  would, sor
 
 Make  an audio record of skype calls with Callburner which is free, and even  video recordings of skype video calls with free Vodburner. (Have them,  never used them, don’t know how good they are.) I imagine those digital  files could then be fed into the Professional Edition of Dragon speech  recognition software which can make text from digital audio files.
  
-
