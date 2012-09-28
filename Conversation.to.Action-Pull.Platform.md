@@ -48,7 +48,9 @@ We need an infinite cannevas, that can enable lots of things to take form, swarm
 
 Get people to swarm. Accelerator & catalyst so each can go to the next level to become more efficient & productive.
 
-Know who the people are to combine projects
+Know who the people are to combine projects, searchable directories.
+
+Visualize the dynamics and evolution of the group.
 
 Share & learn
 
