@@ -46,15 +46,21 @@ We need an infinite cannevas, that can enable lots of things to take form, swarm
 
 ### Overall Requirements  
 
+Get people to swarm. Accelerator & catalyst so each can go to the next level to become more efficient & productive.
+
+Know who the people are to combine projects
+
 Share & learn
 
 Talk while doing, build as we talk
 
 Capture, harvest content of conversations in all multimedia forms.
 
+Organize the information so it is kept 'alive', can be grasped and used quicker
+
 Enable queries, "How do I_______" (for tools, interpersonal strategies, vocabulary) with 'taylored' answers
 
-Make what we each have and the outputs visible and accessible
+Make what we each have and the outputs visible and accessible. One dashboard, get everything in one place.
 
 Enable cross silo understanding (Pattern/link languages and protocols)
 
@@ -64,6 +70,8 @@ Contextualize interdependencies, convergences, divergences through visualization
 
 Enable figuring out what is ongoing. Help people see what is happening.  Clearly showing progress and impact, 'evolution in the making' (making aware through engagement)
 
+Structure for timing, planning ahead, time zones, community edited calendars.
+
 Host and channel the emergence of new patterns. (actionable insights)
 
 Search and navigate the adjacent possibles (exploration)
@@ -71,8 +79,6 @@ Search and navigate the adjacent possibles (exploration)
 Specify intents 
 * Express our current and future desired/preferred contexts in relation to our reality and visualized interdependencies
 * Synchronize intents with purposes, to let the world orient itself around our visions. Example [Move Commons] (http://movecommons.org/about/)
-
-Synchronize resources and needs to maximize potential and impact
 
 Pull people and resources around [social objects as ‘attractors’] (http://www.slideshare.net/jess3/the-world-of-social-objects) – 
 
