@@ -32,6 +32,8 @@ We need conversations that are dynamic and ongoing and can adapt. (flow)
 
 We need to be able to start conversations with no structure and enable the structure to emerge.
 
+We need to have anyone hop into open ended conversations and provide with the context to participate and interact in a fulfilling way
+
 We need to go back and forth between the synchronous and the asynchronous
 
 We need conversations where we can go back and reflect – turn the asynchronicity in time & space in an opportunity for making new sense rather than diverging  (reflection)
