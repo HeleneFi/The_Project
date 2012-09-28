@@ -48,7 +48,7 @@ We need an infinite cannevas, that can enable lots of things to take form, swarm
 
 Get people to swarm. Accelerator & catalyst so each can go to the next level to become more efficient & productive.
 
-Know who the people are to combine projects, searchable directories.
+Know who the people are to combine projects.
 
 Visualize the dynamics and evolution of the group.
 
@@ -161,6 +161,9 @@ Visualization: How the mind works http://www.msci.memphis.edu/~franklin/paradigm
 * Cross-platform
        
   > Does anything need to be said?
+  
+* Shared calendars
+* Shared directories
 
 
 **Pinging**
