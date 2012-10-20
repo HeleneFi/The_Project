@@ -6,5 +6,5 @@ I am concentrating here on:
 * The requirements for a platform to turn open ended conversations into action (Conversation to Action - Pull Platform)
 * A system to explore the edges and alternatives from the position a user occupies (Streams and Masters of the Shift)
 
-Description of the Pull-platform is available here: [Engaging for the Commons - a Global Pull Platform](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html)
-The whole thing finds its place in the context of [Comons sense Commons as a guiding vision for a Self-Caring System & Thrivable World](http://menemania.typepad.com/helene_finidori/2012/08/systems-thinking-and-commons-sense-for-a-sustainable-world.html)
+Description of the Pull-platform is available here: [Engaging for the Commons - a Global Pull Platform](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html).
+The whole thing finds its place in the context of [Comons sense Commons as a guiding vision for a Self-Caring System & Thrivable World](http://menemania.typepad.com/helene_finidori/2012/08/systems-thinking-and-commons-sense-for-a-sustainable-world.html).
