@@ -32,7 +32,7 @@ We need conversations that are dynamic and ongoing and can adapt. (flow)
 
 We need to be able to start conversations with no structure and enable the structure to emerge.
 
-We need to have anyone hop into open ended conversations and provide with the context to participate and interact in a fulfilling way
+We need to have anyone hop into open ended conversations and be provided with the context to participate and interact in a fulfilling way
 
 We need to go back and forth between the synchronous and the asynchronous
 
